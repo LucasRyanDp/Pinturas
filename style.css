@@ -5,6 +5,8 @@ body{
 }
 img{
     width: 10%;
+    float: left;
+    padding-left: 150px;
 }
 
 .principal {
