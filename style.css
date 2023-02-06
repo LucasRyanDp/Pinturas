@@ -1,4 +1,32 @@
-#principal {
+body{
+    background-color: gray;
+    border: 5px solid white;
+    border-top: 5px solid white;
+}
+img{
+    width: 10%;
+}
+
+.principal {
     text-align: center;
-    color: salmon;
+    color: black;
+    margin-left: 139px;
+    margin-right: 990px;
+}
+
+.secundario{
+    text-align: center;
+    color: black;
+    margin-left: 139px;
+    margin-right: 990px;
+    margin-bottom: 300px;
+}
+
+h2{
+    margin-left: 40px;
+}
+
+#pezin{
+    background-color: red;
+    text-align: left;
 }
